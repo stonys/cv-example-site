@@ -8,7 +8,7 @@ main {
     margin: 0 auto; */
     min-height: 500px;
     display: flex;
-    background: url("img/doodle.png") no-repeat center 0;
+    background: url("../img/doodle.png") no-repeat center 0;
 }
 
 .col-center {
@@ -17,7 +17,7 @@ main {
 }
     .col-center_foto {
         height: 339px;
-        background: url("img/foto.png") no-repeat center 0;
+        background: url("../img/foto.png") no-repeat center 0;
     }
     .col-center_content {
         background-color: #293a4a;
@@ -53,15 +53,15 @@ main {
         }
 
         .icon-fb {
-            background: url("img/facebook.png") center 0 no-repeat;
+            background: url("../img/facebook.png") center 0 no-repeat;
         }
 
         .icon-tw {
-            background: url("img/twitter.png") center 0 no-repeat;
+            background: url("../img/twitter.png") center 0 no-repeat;
         }
 
         .icon-other {
-            background: url("img/custom.png") center 0 no-repeat;
+            background: url("../img/custom.png") center 0 no-repeat;
         }
 
 aside {
